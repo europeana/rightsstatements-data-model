@@ -4,7 +4,7 @@
     "@language": "en",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatements.org/vocab/InC-OW-EU/1.0/",
+  "@id": "http://localhost:9000/vocab/InC-OW-EU/1.0/",
   "prefLabel": "In Copyright - EU Orphan Work",
   "description": "This Rights Statement indicates that the Item labeled with this Rights Statement has been identified as an ‘Orphan Work’ under the terms of the EU Orphan Works Directive.",
   "definition": "This Item has been identified as an orphan work in the country of first publication and in line with Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain permitted uses of orphan works.\n\n  For this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located even though a diligent search for the rights-holder(s) has been conducted. The results of the diligent search are available in the EU Orphan Works Database.\n\n  You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",

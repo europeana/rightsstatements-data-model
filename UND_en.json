@@ -4,7 +4,7 @@
     "@language": "en",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatements.org/vocab/UND/1.0/",
+  "@id": "http://localhost:9000/vocab/UND/1.0/",
   "prefLabel": "Copyright Undetermined",
   "description": "This Rights Statement indicates that the organization that has made the Item available has reviewed the copyright and related rights status of the Item, but was unable to determine the copyright status of the Item.",
   "definition": "The copyright and related rights status of this Item has been reviewed by the organization that has made the Item available, but the organization was unable to make a conclusive determination as to the copyright status of the Item.\n\n  Please refer to the organization that has made the Item available for more information.\n\n  You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",

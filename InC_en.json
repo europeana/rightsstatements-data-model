@@ -4,7 +4,7 @@
     "@language": "en",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatements.org/vocab/InC/1.0/",
+  "@id": "http://localhost:9000/vocab/InC/1.0/",
   "prefLabel": "In Copyright",
   "description": "This Rights Statement indicates that the Item labeled with this Rights Statement is in copyright.",
   "definition": "This Item is protected by copyright and/or related rights.\n\n  You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n\n  For other uses you need to obtain permission from the rights-holder(s).",

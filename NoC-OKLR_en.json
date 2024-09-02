@@ -4,7 +4,7 @@
     "@language": "en",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "@id": "http://localhost:9000/vocab/NoC-OKLR/1.0/",
   "prefLabel": "No Copyright - Other Known Legal Restrictions",
   "description": "This Rights Statement indicates that the underlying Work is in the Public Domain, but that there are known restrictions imposed by laws other than copyright and/or related rights on the use of the Item by third parties.",
   "definition": "Use of this Item is not restricted by copyright and/or related rights.\n\n  In one or more jurisdictions, laws other than copyright are known to impose restrictions on the use of this Item.\n\n  Please refer to the organization that has made the Item available for more information.",

@@ -4,7 +4,7 @@
     "@language": "en",
     "description": "http://purl.org/dc/terms/description"
   },
-  "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "@id": "http://localhost:9000/vocab/CNE/1.0/",
   "prefLabel": "Copyright Not Evaluated",
   "description": "This Rights Statement indicates that the organization that has published the Item has not evaluated the copyright and related rights status of the Item.",
   "definition": "The copyright and related rights status of this Item has not been evaluated.\n\n  Please refer to the organization that has made the Item available for more information.\n\n  You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.",
